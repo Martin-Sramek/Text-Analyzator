@@ -1,3 +1,3 @@
 # Text-Analyzator
-Projekt 1: Text Analyzátor
-přidej řádek
+ONLINE PYTHON AKADEMIE
+Projekt: Text Analyzátor
