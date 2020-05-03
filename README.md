@@ -1,3 +1,2 @@
-# Text-Analyzator
-ONLINE PYTHON AKADEMIE`<br />`
-Projekt: Text Analyzátor
+## ONLINE PYTHON AKADEMIE 
+**Projekt 1: Text Analyzátor**
